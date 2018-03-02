@@ -1,0 +1,29 @@
+<plugin
+		id="com.vp.plugin.sample.glossarygrid"
+		name="Glossary Grid"
+		description="Glossary Grid"
+		provider="Visual Paradigm"
+		class="com.vp.plugin.sample.glossarygrid.GlossaryGridPlugin">
+	
+	<actionSets>
+  		<actionSet id="com.vp.plugin.sample.glossarygrid.actionset1">
+			<toolbar
+					id="com.vp.plugin.sample.glossarygrid.actionset1.toolbar1"
+					orientation="north"
+					index="last"/>
+			
+			<action
+					id="com.vp.plugin.sample.glossarygrid.actionset1.GlossaryGridAction"
+					actionType="generalAction"
+      		name="Glossary Grid"
+		      description="Glossary Grid"
+					style="normal"
+          tooltip="Glossary Grid"
+          icon="icon/icon.png"
+					toolbarPath="com.vp.plugin.sample.glossarygrid.actionset1.toolbar1/#">
+				<actionController class="com.vp.plugin.sample.glossarygrid.actions.GlossaryGridActionControl"/>
+			</action>
+		</actionSet>
+
+	</actionSets>	
+</plugin>
