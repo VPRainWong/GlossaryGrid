@@ -8,7 +8,11 @@ Details about modeling with glossary can be found at
 https://www.visual-paradigm.com/features/glossary-management-tools/
 
 https://www.visual-paradigm.com/tutorials/glossary.jsp
+
 https://www.visual-paradigm.com/tutorials/build-glossary-from-business-process.jsp
+
 https://www.visual-paradigm.com/tutorials/identifyterm.jsp
+
 https://www.visual-paradigm.com/tutorials/locatingglossary.jsp
+
 https://www.visual-paradigm.com/tutorials/builddatadicfromtextual.jsp
