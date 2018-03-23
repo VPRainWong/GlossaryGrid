@@ -1,4 +1,4 @@
-This open source plugin support create Glossary Grid in Visual Paradigm's.
+This open source plugin support create Glossary Grid in Visual Paradigm.
 
 Details about how to deploy this plugin to Visual Paradigm can be found at https://knowhow.visual-paradigm.com/openapi/how-to-deploy-plugins-to-vp-application/
 
